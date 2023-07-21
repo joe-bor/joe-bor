@@ -44,6 +44,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joe-bor&theme=onedark&no-bg=true&margin-w=10&margin-h=10&column=7" alt="joe-bor" /></a> </p>
 
 <!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joe-bor&label=Profile%20views&color=4aa2d9&style=plastic" alt="joe-bor" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joe-bor&label=Visitors&color=4aa2d9&style=plastic" alt="joe-bor" /> </p>
 
 
