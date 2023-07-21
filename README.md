@@ -35,16 +35,11 @@
 <br/>
 <br/>
 
-
-
-<!-- Streak Bar -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-bor&theme=dark" alt="joe-bor" /></p>
-
-
-
 <!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joe-bor&show_icons=true&hide_border=true&theme='dark'&&count_private=true&include_all_commits=true" />
 
+<!-- Streak Bar -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-bor&theme=dark" alt="joe-bor" /></p>
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joe-bor&label=Profile%20views&color=4aa2d9&style=plastic" alt="joe-bor" /> </p>
