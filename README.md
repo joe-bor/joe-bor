@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Joezari Borlongan</h1>
-<h3 align="center">Pursuing lifelong learning</h3>
+# Joezari Borlongan
+
+
+
 
 
 - 📫 How to reach me **bor.joezari@gmail.com**
