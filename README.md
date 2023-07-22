@@ -1,12 +1,6 @@
-# Joezari Borlongan
+<h1 align='center'> Joezari Borlongan </h1>
 
-
-
-
-
-- 📫 How to reach me **bor.joezari@gmail.com**
-
-- 🌱 I’m currently learning **React, Next, TypeScript**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=short+stack&size=25&duration=3000&pause=1000&color=FBB270&background=AB16FF00&center=true&vCenter=true&width=435&lines=Lifelong+Learner;Blockchain+Enthusiast;Software+Engineer)](https://git.io/typing-svg)
 
 ---
 
@@ -18,7 +12,7 @@
 <a href="https://www.leetcode.com/joe-bor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joe-bor" height="30" width="50" /></a>
 </p>
 
----- 
+---
 
 <!-- Tech Stack Bar-->
 <h3 align="left">Languages and Tools:</h3>
@@ -47,5 +41,3 @@
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joe-bor&label=Visitors&color=4aa2d9&style=plastic" alt="joe-bor" /> </p>
-
-
