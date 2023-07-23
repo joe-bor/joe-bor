@@ -1,4 +1,4 @@
-<h1 align='center'> Joezari Borlongan </h1>
+<h1 align='center'> <strong>Joezari Borlongan</strong> </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=short+stack&size=25&duration=3000&pause=1000&color=FBB270&background=AB16FF00&center=true&vCenter=true&width=435&lines=Invent,+Innovate,+Iterate;Lifelong+Learner;Blockchain+Enthusiast;Software+Engineer)](https://git.io/typing-svg)
 
@@ -6,7 +6,7 @@
 
 <!-- Connect-->
 <h3 align="left">Connect with me:</h3>
-<div align="center">
+<div align="left">
   <a href="mailto:bor.joezari@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
   
@@ -21,7 +21,7 @@
 
 <!-- Tech Stack Bar-->
 <h3>Languages and Tools:</h3>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
@@ -53,24 +53,21 @@
 
 ---
 
-<!--  -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-bor&show_icons=true&locale=en&layout=compact&theme=onedark" alt="joe-bor" /></p> 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
+<div align="left">
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joe-bor&show_icons=true&hide_border=false&theme=onedark&&count_private=true&include_all_commits=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=joe-bor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true" height="180" alt="stats graph"  />
+  
 <!-- Streak Bar -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-bor&theme=onedark" alt="joe-bor" /></p>
+  <img src="https://streak-stats.demolab.com?user=joe-bor&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
+  
+<!-- Language Count  -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-bor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true" height="180" alt="languages graph"  />
+</div>
+
+#
 
 <!-- GitHub Trophies -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joe-bor&theme=onedark&no-bg=true&margin-w=10&margin-h=10&column=7" alt="joe-bor" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joe-bor&theme=gruvbox&no-bg=true&margin-w=10&margin-h=10&column=7" alt="joe-bor" /></a> </p>
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joe-bor&label=Visitors&color=4aa2d9&style=plastic" alt="joe-bor" /> </p>
