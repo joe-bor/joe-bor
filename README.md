@@ -17,7 +17,12 @@
 
   <a href="https://join.slack.com/t/joe-bor/shared_invite/zt-201wd3tog-b5vyZWkA97u61gl3POVEIA" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  /> </a>
+  
+  <a href="https://discord.gg/JKgMtNTv" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> </a>
+  
 </div>
+
 
 ---
 
