@@ -26,7 +26,7 @@
 
 ---
 
-<!-- Tech Stack Bar-->
+<!-- Tech Stack Bar-->            <!--ADD: Gulp | Nginx | SCSS | Docker ? -->
 <h3>Languages and Tools:</h3>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
