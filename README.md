@@ -65,16 +65,16 @@
 ---
 <p align="left">
 <a href='https://github.com/joe-bor/Bazaar' target="_blank">
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=bazaar&theme=gruvbox&hide_border=false' width='320'/>
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=bazaar&theme=gruvbox&hide_border=false' width='400'/>
 </a>
 <a href='https://github.com/joe-bor/nft-marketplace' target="_blank">
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=nft-marketplace&theme=gruvbox&hide_border=false' width='320'/>
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=nft-marketplace&theme=gruvbox&hide_border=false' width='400'/>
 </a>
 <a href='https://github.com/joe-bor/astro-portfolio' target="_blank">
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=astro-portfolio&theme=gruvbox&hide_border=false' width='320'/>
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=astro-portfolio&theme=gruvbox&hide_border=false' width='400'/>
 </a>
 <a href='https://github.com/joe-bor/space-invaders' target="_blank">
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=space-invaders&theme=gruvbox&hide_border=false' width='320'/>
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=space-invaders&theme=gruvbox&hide_border=false' width='400'/>
 </a>
 </p>
 
