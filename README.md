@@ -1,5 +1,4 @@
 <!--  Replace this h1 with a banner with name + tech stack? -->
-
 <h1 align='center'> <strong>Joezari Borlongan</strong> </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=short+stack&size=25&duration=3000&pause=1000&color=FBB270&background=AB16FF00&center=true&vCenter=true&width=435&lines=Invent,+Innovate,+Iterate;Lifelong+Learner;Blockchain+Enthusiast;Software+Engineer)](https://git.io/typing-svg)
@@ -62,6 +61,22 @@
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
 </div>
+
+---
+<p align="left">
+<a href='https://github.com/joe-bor/Bazaar' target="_blank">
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=bazaar&theme=gruvbox&hide_border=false' width='280'/>
+</a>
+<a href='https://github.com/joe-bor/nft-marketplace' target="_blank">
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=nft-marketplace&theme=gruvbox&hide_border=false' width='280'/>
+</a>
+<a href='https://github.com/joe-bor/astro-portfolio' target="_blank">
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=astro-portfolio&theme=gruvbox&hide_border=false' width='280'/>
+</a>
+<a href='https://github.com/joe-bor/space-invaders' target="_blank">
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=space-invaders&theme=gruvbox&hide_border=false' width='280'/>
+</a>
+</p>
 
 ---
 
