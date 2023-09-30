@@ -100,4 +100,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joe-bor&label=Visitors&color=4aa2d9&style=plastic" alt="joe-bor" /> </p>
 
 
+
+<!-- Holopins -->
+<details> 
+  <summary> Holopin Badges</summary>
+  <img src="https://www.holopin.me/joebor" />
+</details>
+
+
 <!-- ![Myskills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,typescript,next,vite,tailwind,js,html,css,jest,vscode,bootstrap,git,postman&perline=4) -->
