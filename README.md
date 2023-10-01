@@ -63,6 +63,14 @@
 </div>
 
 ---
+
+<!-- Pinned
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FBB270&width=435&lines=Personal+Projects+(Post-course))](https://git.io/typing-svg)
+-->
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FBB270&width=435&lines=General+Assembly+Projects)](https://git.io/typing-svg)
 <p align="left">
 <a href='https://github.com/joe-bor/Bazaar' target="_blank">
 <img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=bazaar&theme=gruvbox&hide_border=false' width='400' alt="Bazaar"/>
