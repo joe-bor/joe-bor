@@ -30,7 +30,7 @@
 
 ---
 
-<!-- Tech Stack Bar-->            <!--ADD: Gulp | Nginx | SCSS | Docker ? -->
+<!-- Tech Stack Bar-->            <!--ADD: Gulp | Nginx | Docker ? -->
 <h3>Languages and Tools:</h3>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
@@ -41,11 +41,15 @@
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
     <img width="5" />
-    <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-    <img width="5" />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-    <img width="5" />
     <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=nginx" height="45" alt="nginx logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=gulp" height="45" alt="gulp logo"  />
+    <img width="5" />
+    <img src="https://skillicons.dev/icons?i=webpack" height="45" alt="webpack logo"  />
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
     <img width="5" />
@@ -60,6 +64,20 @@
     <img src="https://skillicons.dev/icons?i=jest" height="45" alt="jest logo"  />
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+</div>
+
+<h3>Currently Learning:</h3>
+<div alin='left'>
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+      <img width="5" />
+    <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+      <img width="5" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+      <img width="5" />
+    <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="prisma logo"  />
+      <img width="5" />
+    <img src="https://skillicons.dev/icons?i=next" height="45" alt="tailwindcss logo"  />
+      <img width="5" />
 </div>
 
 ---
