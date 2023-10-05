@@ -131,9 +131,9 @@
 
 
 <!-- Holopins -->
-<details> 
-  <summary> Holopin Badges</summary>
-  <img src="https://www.holopin.me/joebor" />
+<details open> 
+  <summary > Holopin Badges</summary>
+  <img src="https://holopin.me/joebor" />
 </details>
 
 
