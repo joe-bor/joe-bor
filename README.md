@@ -41,16 +41,16 @@
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
     <img width="5" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
-    <img width="5" />
+<!--     <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
+    <img width="5" /> -->
     <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
     <img width="5" />
-    <img src="https://skillicons.dev/icons?i=nginx" height="45" alt="nginx logo"  />
+<!--     <img src="https://skillicons.dev/icons?i=nginx" height="45" alt="nginx logo"  />
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=gulp" height="45" alt="gulp logo"  />
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=webpack" height="45" alt="webpack logo"  />
-    <img width="5" />
+    <img width="5" /> -->
     <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
