@@ -33,6 +33,8 @@
 <!-- Tech Stack Bar-->            <!--ADD: Gulp | Nginx | Docker ? -->
 <h3>Languages and Tools:</h3>
 <div align="left">
+    <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+      <img width="5" />
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
@@ -43,8 +45,8 @@
     <img width="5" />
 <!--     <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
     <img width="5" /> -->
-    <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
-    <img width="5" />
+<!--     <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
+    <img width="5" /> -->
 <!--     <img src="https://skillicons.dev/icons?i=nginx" height="45" alt="nginx logo"  />
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=gulp" height="45" alt="gulp logo"  />
@@ -57,26 +59,22 @@
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
     <img width="5" />
-    <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
+<!--     <img src="https://skillicons.dev/icons?i=postman" height="45" alt="postman logo"  />
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=jest" height="45" alt="jest logo"  />
     <img width="5" />
-    <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+    <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  /> -->
 </div>
 
 <h3>Currently Learning:</h3>
 <div alin='left'>
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-      <img width="5" />
-    <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-      <img width="5" />
-    <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
-      <img width="5" />
-    <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="prisma logo"  />
-      <img width="5" />
-    <img src="https://skillicons.dev/icons?i=next" height="45" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
+    <img width="5" />
+  <img src="https://skillicons.dev/icons?i=django" height="45" alt="django logo"  />
+    <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
       <img width="5" />
 </div>
 
