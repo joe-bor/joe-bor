@@ -30,11 +30,9 @@
 
 ---
 
-<!-- Tech Stack Bar-->            <!--ADD: Gulp | Nginx | Docker ? -->
+<!-- Tech Stack Bar-->           
 <h3>Languages and Tools:</h3>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-      <img width="5" />
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
@@ -43,6 +41,8 @@
     <img width="5" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
     <img width="5" />
+    <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+      <img width="5" />
 <!--     <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
     <img width="5" /> -->
 <!--     <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
