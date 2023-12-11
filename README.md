@@ -1,6 +1,6 @@
 <!--  Replace this h1 with a banner with name + tech stack? --> 
 <h1 align='center'> <strong>Joezari Borlongan</strong> </h1>
-
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=short+stack&size=25&duration=3000&pause=1000&color=FBB270&background=AB16FF00&center=true&vCenter=true&width=435&lines=Invent,+Innovate,+Iterate;Lifelong+Learner;Blockchain+Enthusiast;Software+Engineer)](https://git.io/typing-svg)
 
 ---
