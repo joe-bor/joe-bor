@@ -1,4 +1,4 @@
-<!--  Replace this h1 with a banner with name + tech stack? --> 
+<!--  Replace this h1 with a banner with name + tech stack? -->
 <h1 align='center'> <strong>Joezari Borlongan</strong> </h1>
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=short+stack&size=25&duration=3000&pause=1000&color=FBB270&background=AB16FF00&center=true&vCenter=true&width=435&lines=Invent,+Innovate,+Iterate;Lifelong+Learner;Blockchain+Enthusiast;Software+Engineer)](https://git.io/typing-svg)
@@ -27,10 +27,9 @@
   -->
 </div>
 
-
 ---
 
-<!-- Tech Stack Bar-->           
+<!-- Tech Stack Bar-->
 <h3>Languages and Tools:</h3>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
@@ -80,18 +79,25 @@
 
 ---
 
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FBB270&width=435&lines=Personal+Projects+(Post-Bootcamp)>)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FBB270&width=435&lines=Personal+Projects+(Post-Bootcamp))](https://git.io/typing-svg)
 <p align='left'>
   
 </p>
+  <a href='https://github.com/joe-bor/luckys_iris' target="_blank">
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=luckys_iris&theme=gruvbox&hide_border=false' width='400' alt="luckys_iris"/>
+  </a>
+  <a href='https://github.com/joe-bor/py_ai_chat' target="_blank">
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=py_ai_chat&theme=gruvbox&hide_border=false' width='400' alt="py_ai_chat"/>
+  </a>
   <a href='https://github.com/joe-bor/your-space' target="_blank">
   <img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=your-space&theme=gruvbox&hide_border=false' width='400' alt="your-space"/>
   </a>
 
---- 
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FBB270&width=435&lines=General+Assembly+Projects)](https://git.io/typing-svg)
+
 <p align="left">
 <a href='https://github.com/joe-bor/Bazaar' target="_blank">
 <img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=bazaar&theme=gruvbox&hide_border=false' width='400' alt="Bazaar"/>
@@ -131,13 +137,10 @@
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joe-bor&label=Visitors&color=4aa2d9&style=plastic" alt="joe-bor" /> </p>
 
-
-
 <!-- Holopins -->
 <details open> 
   <summary > Holopin Badges</summary>
   <img src="https://holopin.me/joebor" />
 </details>
-
 
 <!-- ![Myskills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,typescript,next,vite,tailwind,js,html,css,jest,vscode,bootstrap,git,postman&perline=4) -->
