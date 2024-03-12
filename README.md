@@ -71,10 +71,10 @@
 <div alin='left'>
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
     <img width="5" />
-  <img src="https://skillicons.dev/icons?i=django" height="45" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=solidity" height="45" alt="solidity logo"  />
     <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
-      <img width="5" />
+<!--   <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+      <img width="5" /> -->
 </div>
 
 ---
