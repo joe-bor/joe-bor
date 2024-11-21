@@ -69,11 +69,11 @@
 
 <h3>Currently Learning:</h3>
 <div alin='left'>
-  <img src="https://skillicons.dev/icons?i=solidity" height="45" alt="solidity logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
     <img width="5" />
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
     <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=idea" height="45" alt="intellij idea logo"  />
       <img width="5" />
 </div>
 
