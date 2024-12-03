@@ -73,6 +73,8 @@
     <img width="5" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
     <img width="5" />
+  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
+      <img width="5" />
   <img src="https://skillicons.dev/icons?i=idea" height="45" alt="intellij idea logo"  />
       <img width="5" />
 </div>
