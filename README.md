@@ -81,6 +81,27 @@
 
 ---
 
+
+[![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FBB270&width=435&lines=Year+Up+(Pluralsight)>)](https://git.io/typing-svg)
+
+<p align='left'>
+  
+</p>
+  <a href="https://github.com/joe-bor/AccountingLedger" target="_blank" >
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=AccountingLedger&theme=gruvbox&hide_border=false' width='400' alt="Accounting Ledger"/>
+  </a>
+  
+  <a href="https://github.com/joe-bor/Deli-cious" target="_blank">
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=Deli-cious&theme=gruvbox&hide_border=false' width='400' alt="Deli-cious"/>
+  </a>
+  
+  <a href="https://github.com/joe-bor/easyShop" target="_blank">
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=easyShop&theme=gruvbox&hide_border=false' width='400' alt="easyShop"/>
+  </a>
+
+
+---
+
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FBB270&width=435&lines=Personal+Projects+(Post-Bootcamp)>)](https://git.io/typing-svg)
 
 <p align='left'>
