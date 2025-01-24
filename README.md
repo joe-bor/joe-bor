@@ -87,16 +87,20 @@
 <p align='left'>
   
 </p>
-  <a href="https://github.com/joe-bor/AccountingLedger" target="_blank" >
-  <img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=AccountingLedger&theme=gruvbox&hide_border=false' width='400' alt="Accounting Ledger"/>
+  <a href="https://github.com/joe-bor/AccountingLedger" target="_blank">
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=AccountingLedger&theme=gruvbox&hide_border=false&cache_seconds=0' width='400' alt="Accounting Ledger"/>
   </a>
   
   <a href="https://github.com/joe-bor/Deli-cious" target="_blank">
-  <img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=Deli-cious&theme=gruvbox&hide_border=false' width='400' alt="Deli-cious"/>
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=Deli-cious&theme=gruvbox&hide_border=false&cache_seconds=0' width='400' alt="Deli-cious"/>
   </a>
   
   <a href="https://github.com/joe-bor/easyShop" target="_blank">
-  <img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=easyShop&theme=gruvbox&hide_border=false' width='400' alt="easyShop"/>
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=easyShop&theme=gruvbox&hide_border=false&cache_seconds=0' width='400' alt="easyShop"/>
+  </a>
+
+  <a href="https://github.com/joe-bor/java-development" target="_blank">
+  <img src='https://github-readme-stats.vercel.app/api/pin/?username=joe-bor&repo=java-development&theme=gruvbox&hide_border=false&cache_seconds=0' width='400' alt="java-development"/>
   </a>
 
 
